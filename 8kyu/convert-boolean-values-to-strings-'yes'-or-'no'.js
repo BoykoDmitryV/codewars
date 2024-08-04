@@ -16,10 +16,11 @@
 //   }
 
 function boolToWord(bool) {
-  //...
-  if (bool) {
-    return "Yes";
-  } else {
-    return "No";
+    //...
+    if (bool) {
+      return "Yes";
+    } else {
+      return "No";
+    }
   }
-}
+  
