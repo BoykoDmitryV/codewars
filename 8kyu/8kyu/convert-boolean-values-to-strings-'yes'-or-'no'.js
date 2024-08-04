@@ -16,9 +16,7 @@
 //   }
 
 
-
-
-function boolToWord( bool ){
+  function boolToWord( bool ){
     //...
     if (bool){
       return "Yes"
