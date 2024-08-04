@@ -1,6 +1,6 @@
 // 8 kyu
 // Convert boolean values to strings 'Yes' or 'No'.
-// 113329689% of 20,981118,879 of 324,247weavermedia2 Issues Reported
+// 113329689% of 20,981118,879 of 324,247weavermedia2 Issues Reported 
 //  JavaScript
 // Node v18.x
 // VIM
